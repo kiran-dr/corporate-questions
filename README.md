@@ -9,7 +9,8 @@ Each program solves a different problem related to ranges, products, sums, and f
 2. Product of all numbers from m to n  
 3. Product of all even numbers from m to n  
 4. Product of all odd numbers from m to n  
-5. Sum of factorial numbers from m to n  
+5. Sum of factorial numbers from m to n
+6. sum of prime numbers from m to n
 
 ## About Me
 
