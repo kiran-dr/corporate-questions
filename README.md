@@ -13,5 +13,5 @@ Each program solves a different problem related to ranges, products, sums, and f
 
 ## About Me
 
-I am D R Kiran, a 2nd-year B.Tech student in EEE.  
+I am D R Kiran, a 3rd-year B.Tech student in EEE.  
 This repository is a collection of practice problems I solved while learning Python.
